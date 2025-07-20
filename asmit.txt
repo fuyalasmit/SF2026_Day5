@@ -1,1 +1,10 @@
 hi my name is asmit
+
+This repo is cloned. We forked and the copied the url. 
+
+For clone :
+    git clone https://github.com/Raghab123/SF2026_Day5.git 
+
+New branch: 
+    git checkout -b [branchname]
+    For example: git checkout -b featurebranch
